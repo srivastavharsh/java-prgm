@@ -1,0 +1,8 @@
+class ADDNUMBER{
+public static void main (string arg[]){
+int a=34;
+int b=20;
+int summ=a+b;
+System.out.println(sum);
+}
+}
